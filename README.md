@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming fundamentals   
 - 🌱 I’m currently learning JavaScript, React, Node.js 
 - 💞️ I’m looking to collaborate on JavaScripp projects 
-- 📫 How to reach me you can message me on Linkin!
+- 📫 How to reach me you can message me on Linkedin!
 - www.linkedin.com/in/william-rogers-dev
 
 <!---
