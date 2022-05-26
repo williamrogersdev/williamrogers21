@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamrogers21
 - 👀 I’m interested in learning programming fundamentals   
 - 🌱 I’m currently learning JavaScript, React, Node.js 
-- 💞️ I’m looking to collaborate on JavaScripp projects 
+- 💞️ I’m looking to collaborate on JavaScript projects 
 - 📫 How to reach me you can message me on Linkedin!
 - www.linkedin.com/in/william-rogers-dev
 
