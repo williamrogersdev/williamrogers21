@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @williamrogers21
+- 👋 Hi, I’m William Rogers 
 - 👀 I’m interested in learning programming fundamentals   
 - 🌱 I’m currently learning JavaScript, React, Node.js 
 - 💞️ I’m looking to collaborate on JavaScript projects 
